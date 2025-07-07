@@ -23,6 +23,6 @@ The result is printed!
 | `RunnableMap`    | Runs `summary_chain` and stores output as `summary` |
 | `RunnableLambda` | Prepares the output for next step                   |
 | `explain_chain`  | Uses Gemini to simplify the summary                 |
-<br>
+
 ![alt text](https://github.com/user-attachments/assets/fc86e9c9-f571-4f01-9acd-bfff1eaa79ff)
 
