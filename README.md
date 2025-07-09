@@ -25,4 +25,9 @@ The result is printed!
 | `explain_chain`  | Uses Gemini to simplify the summary                 |
 
 ![alt text](https://github.com/user-attachments/assets/fc86e9c9-f571-4f01-9acd-bfff1eaa79ff)
+<br>
+
+<b>parallel_chain.py<b>
+
+![alt text](https://github.com/vimarsh11/Langchain_chains/blob/main/working%20_flow_parallel)
 
