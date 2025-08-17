@@ -31,3 +31,23 @@ The result is printed!
 
 ![alt text](https://github.com/vimarsh11/Langchain_chains/blob/main/working%20_flow_parallel)
 
+<b>conditional_chain.py</b>
+
+<br>
+RunnableBranch - Conditional routing logic
+<br>
+![alt text](https://github.com/vimarsh11/Langchain_chains/blob/main/working_flow_conditional)
+<br>
+Classifier Chain → Gemini decides if feedback is positive/negative
+
+RunnableBranch → Routes based on condition:
+
+Positive → reply with thanks
+
+Negative → reply with empathy
+
+Else → fallback
+
+<b>Workflow<b>
+<br>
+Input feedback → classify sentiment → choose branch → generate response
