@@ -32,11 +32,10 @@ The result is printed!
 ![alt text](https://github.com/vimarsh11/Langchain_chains/blob/main/working%20_flow_parallel)
 
 <b>conditional_chain.py</b>
-
 <br>
 RunnableBranch - Conditional routing logic
 <br>
-![alt text](https://github.com/vimarsh11/Langchain_chains/blob/main/working_flow_conditional)
+<img width="426" height="356" alt="image" src="https://github.com/user-attachments/assets/83cbac85-82e9-46fe-b20c-0c54b9697e20" />
 <br>
 Classifier Chain → Gemini decides if feedback is positive/negative
 
